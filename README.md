@@ -1,2 +1,2 @@
 #  Chrome Extension 
-A chrome extension
+A chrome extension.
