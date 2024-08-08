@@ -1,2 +1,2 @@
 #  Chrome Extension 
-A Chrome extension that generates jokes
+A Chrome extension that generates jokes.
